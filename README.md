@@ -1,10 +1,14 @@
 # Python
 
+Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics, used
+for general-purpose programming.
+
 ## Repository Contents
 
 This repository contains my notes and tutorials, along with a folder structure for organizing the content.
 
 ### Syntax
+
 - Variables
 - Indentation
 - Data Types
@@ -14,14 +18,15 @@ This repository contains my notes and tutorials, along with a folder structure f
 - Global Variables
 - Global Keyword
 - Booleans
-  - `bool()` Function
-  - Falsy Values
+    - `bool()` Function
+    - Falsy Values
 - Conditional Statements
 - Loops
 - Functions
 - User Inputs
 
 ### Object-Oriented Programming (OOP)
+
 - Classes and Objects
 - Encapsulation
 - Inheritance
@@ -31,6 +36,7 @@ This repository contains my notes and tutorials, along with a folder structure f
 ### String Manipulation
 
 ### Data Structures
+
 - Lists
 - Tuples
 - Sets

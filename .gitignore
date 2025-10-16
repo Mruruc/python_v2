@@ -40,3 +40,24 @@ build/
 *.properties
 /.idea
 /target
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+**/__pycache__
+
+# Venv
+.venv/
+
+# Build artifacts
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+**/__pycache__
+
+.venv
